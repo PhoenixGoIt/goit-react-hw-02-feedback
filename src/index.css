@@ -13,3 +13,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2 {
+  font-size: 50px;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+button {
+  border-radius: 4px;
+  width: 110px;
+  height: 45px;
+  border: 0;
+  background-color: rgb(196, 196, 196);
+}
+
+.btn {
+  display: flex;
+  gap: 20px;
+  margin-left: 60px;
+}
